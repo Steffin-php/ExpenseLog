@@ -1,4 +1,6 @@
-# 💰 ExpenseLog
+ExpenseLog
+
+Live Website: file:///C:/Users/acer/.gemini/antigravity/scratch/expenselog/index.html
 
 ExpenseLog is a simple personal expense tracker that helps you log daily spending, see where your money goes, and stay on top of your budget — all right in your browser.
 
